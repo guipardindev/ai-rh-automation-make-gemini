@@ -1,110 +1,110 @@
-# 🤖 AI Assistant for HR Automation using Generative AI
+# 🤖 Assistente de IA para Automação de RH usando IA Generativa
 
 ![Banner](banner.png)
 
-## 📌 Project Description
+## 📌 Descrição do Projeto
 
-This project was developed for the subject **Fundamentos da IA Generativa**.
+Este projeto foi desenvolvido para a disciplina **Fundamentos da IA Generativa**.
 
-The objective was to create a prototype using Generative AI capable of automating repetitive communication tasks in the Human Resources (HR) sector.
+O objetivo foi criar um protótipo utilizando Inteligência Artificial Generativa capaz de automatizar tarefas repetitivas de comunicação no setor de Recursos Humanos (RH).
 
-The system reads incoming emails, identifies the type of request, generates a response using a Large Language Model, and records the information automatically.
+O sistema lê e-mails recebidos, identifica o tipo de solicitação, gera uma resposta utilizando um modelo de linguagem (LLM) e registra as informações automaticamente.
 
-The solution was built using automation tools without complex programming.
-
----
-
-## 🎯 Problem
-
-Human Resources departments receive many repetitive emails such as:
-
-- Medical certificates
-- Vacation requests
-- Document submissions
-- Employee questions
-- Internal communication
-
-Answering these messages manually takes time and reduces productivity.
+A solução foi construída utilizando ferramentas de automação, sem necessidade de programação complexa.
 
 ---
 
-## 💡 Solution
+## 🎯 Problema
 
-An automation was created using **Make.com + Gemini + Prompt Engineering**.
+O setor de Recursos Humanos recebe muitos e-mails repetitivos, como:
 
-Flow:
+- Envio de atestados médicos
+- Solicitações de férias
+- Envio de documentos
+- Dúvidas de colaboradores
+- Comunicados internos
 
-Email → Make → Router → Gemini → Response → Gmail + Google Sheets
-
-The system:
-
-✔ reads emails  
-✔ identifies the context  
-✔ generates a response  
-✔ sends the reply  
-✔ logs the request  
+Responder essas mensagens manualmente consome tempo e reduz a produtividade.
 
 ---
 
-## 🛠 Tools Used
+## 💡 Solução
 
-- Make.com (automation)
-- Gemini (LLM response generation)
-- Claude (prompt and workflow architecture)
-- Perplexity (research and scenarios)
-- NotebookLM (documentation)
-- ChatGPT (video pitch script)
-- Gmail (input/output)
-- Google Sheets (log)
+Foi criada uma automação utilizando **Make.com + Gemini + Prompt Engineering**.
+
+Fluxo:
+
+Email → Make → Router → Gemini → Resposta → Gmail + Google Sheets
+
+O sistema:
+
+✔ lê os e-mails  
+✔ identifica o contexto  
+✔ gera uma resposta automática  
+✔ envia a resposta  
+✔ registra a solicitação  
 
 ---
 
-## ⚙ How It Works
+## 🛠 Ferramentas Utilizadas
 
-1. Email arrives in Gmail
-2. Make scenario detects the email
-3. Router separates request type
-4. Gemini generates response
-5. Response sent automatically
-6. Data saved in Google Sheets
+- Make.com (automação)
+- Gemini (geração de respostas com LLM)
+- Claude (criação de prompts e arquitetura do workflow)
+- Perplexity (pesquisa e levantamento de cenários)
+- NotebookLM (documentação)
+- ChatGPT (roteiro do vídeo pitch)
+- Gmail (entrada e saída de mensagens)
+- Google Sheets (registro das solicitações)
+
+---
+
+## ⚙ Como Funciona
+
+1. Um e-mail chega no Gmail
+2. O cenário do Make detecta o e-mail
+3. O Router separa o tipo de solicitação
+4. O Gemini gera a resposta
+5. A resposta é enviada automaticamente
+6. Os dados são salvos no Google Sheets
 
 ---
 
 ## 🧠 Prompt Engineering
 
-The prompts were designed to:
+Os prompts foram elaborados para:
 
-- keep formal tone
-- generate HR responses
-- adapt to context
-- avoid errors
-- standardize communication
+- manter tom formal
+- gerar respostas corporativas
+- adaptar ao contexto da mensagem
+- evitar erros de interpretação
+- padronizar a comunicação
 
-Claude was used to help design the prompts and workflow structure.
+O Claude foi utilizado como apoio na criação dos prompts e na definição da estrutura do workflow.
 
 ---
 
-## 📂 Project Files
+## 📂 Arquivos do Projeto
 
-- Documentation PDF
-- Prints of automation
-- Workflow image
-- Prompts used
-- Video pitch
+- PDF da documentação
+- Prints da automação
+- Imagem do workflow
+- Prompts utilizados
+- Vídeo pitch
 
 ---
 
 ## 🔗 Links
 
-### 🎬 Video Pitch
+### 🎬 Vídeo Pitch
 
 (link do youtube aqui)
 
-### ⚙ Make Scenario
+### ⚙ Cenário no Make
 
 (link do make aqui)
 
-### 📄 Documentation
+### 📄 Documentação
 
 (link do pdf aqui)
 
@@ -116,27 +116,27 @@ Claude was used to help design the prompts and workflow structure.
 
 ---
 
-## 🚀 How to Use
+## 🚀 Como Usar
 
-1. Send an email to the configured account
-2. Run the scenario in Make
-3. The system generates a response
-4. The response is sent automatically
-5. The request is saved in Sheets
-
----
-
-## ⚠ Ethical Considerations
-
-- AI must not expose personal data
-- Human supervision is required
-- Responses must be reviewed in real scenarios
-- LGPD rules must be respected
+1. Envie um e-mail para a conta configurada
+2. Execute o cenário no Make
+3. O sistema gera uma resposta automática
+4. A resposta é enviada pelo Gmail
+5. A solicitação é registrada no Google Sheets
 
 ---
 
-## 👨‍🎓 Author
+## ⚠ Considerações Éticas
+
+- A IA não deve expor dados pessoais
+- É necessária supervisão humana
+- As respostas devem ser revisadas em uso real
+- As regras da LGPD devem ser respeitadas
+
+---
+
+## 👨‍🎓 Autor
 
 Guilherme Pardin de Almeida  
-Fundamentos da IA Generativa  
-2026# ai-rh-automation-make-gemini
+Disciplina: Fundamentos da IA Generativa  
+2026
