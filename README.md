@@ -106,7 +106,9 @@ O Claude foi utilizado como apoio na criação dos prompts e na definição da e
 
 ### 📄 Documentação
 
-(link do pdf aqui)
+A documentação completa está disponível no arquivo:
+
+[Automação de Comunicação com IA Generativa no RH](assets/automacao-rh-ia-generativa.pdf)
 
 ---
 
