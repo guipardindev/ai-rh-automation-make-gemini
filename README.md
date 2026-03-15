@@ -110,7 +110,7 @@ O arquivo pode ser importado em outra conta do Make para recriar a automação.
 
 Link público do cenário (quando disponível):
 
-[link aqui](https://us2.make.com/public/shared-scenario/yy191ApmqfC/chat-bot-de-mensagem-para-rh)
+[Link aqui!](https://us2.make.com/public/shared-scenario/yy191ApmqfC/chat-bot-de-mensagem-para-rh)
 
 ### 📄 Documentação
 
