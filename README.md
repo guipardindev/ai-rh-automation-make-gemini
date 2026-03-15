@@ -1,6 +1,6 @@
 # 🤖 Assistente de IA para Automação de RH usando IA Generativa
 
-![Banner](banner.png)
+![Banner](thumb-video-pitch.jpg)
 
 ## 📌 Descrição do Projeto
 
@@ -98,7 +98,7 @@ O Claude foi utilizado como apoio na criação dos prompts e na definição da e
 
 ### 🎬 Vídeo Pitch
 
-(link do youtube aqui)
+[Link do video](https://youtu.be/djF9X_Z26mo)
 
 ### ⚙ Cenário da Automação no Make
 
