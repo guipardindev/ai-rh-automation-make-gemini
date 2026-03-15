@@ -1,6 +1,6 @@
 # 🤖 Assistente de IA para Automação de RH usando IA Generativa
 
-![Banner](thumb-video-pitch.jpg)
+![Banner](thumb-video-pitch.png)
 
 ## 📌 Descrição do Projeto
 
