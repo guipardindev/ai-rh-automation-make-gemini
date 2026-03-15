@@ -114,7 +114,7 @@ A documentação completa está disponível no arquivo:
 
 ## 🖼 Workflow
 
-![Workflow](workflow.png)
+![Workflow](assets/workflow-ai-hr-ok)
 
 ---
 
