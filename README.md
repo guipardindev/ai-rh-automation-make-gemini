@@ -100,7 +100,7 @@ O Claude foi utilizado como apoio na criação dos prompts e na definição da e
 
 (link do youtube aqui)
 
-### Cenário da Automação no Make
+### ⚙ Cenário da Automação no Make
 
 Para garantir a reprodutibilidade do projeto, o cenário desenvolvido na plataforma Make foi exportado no formato Blueprint.
 
