@@ -1,5 +1,5 @@
 {
-    "name": "ChatBot de mensagem para RH",
+    "name": "chatbot-de-mensagem-para-rh",
     "flow": [
         {
             "id": 1,
@@ -1256,7 +1256,6 @@
             },
             "routes": [
                 {
-                    "disabled": true,
                     "flow": [
                         {
                             "id": 16,
