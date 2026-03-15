@@ -100,9 +100,17 @@ O Claude foi utilizado como apoio na criação dos prompts e na definição da e
 
 (link do youtube aqui)
 
-### ⚙ Cenário no Make
+### Cenário da Automação no Make
+
+Para garantir a reprodutibilidade do projeto, o cenário desenvolvido na plataforma Make foi exportado no formato Blueprint.
+
+O arquivo pode ser importado em outra conta do Make para recriar a automação.
 
 [Blueprint do cenário no Make](assets/chatbot-de-mensagem-para-rh.blueprint.json)
+
+Link público do cenário (quando disponível):
+
+[link aqui](https://us2.make.com/public/shared-scenario/yy191ApmqfC/chat-bot-de-mensagem-para-rh)
 
 ### 📄 Documentação
 
