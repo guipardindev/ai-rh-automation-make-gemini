@@ -102,7 +102,7 @@ O Claude foi utilizado como apoio na criação dos prompts e na definição da e
 
 ### ⚙ Cenário no Make
 
-[Cenário no Make](assets/chatbot-de-mensagem-para-rh.blueprint.json)
+[Blueprint do cenário no Make](assets/chatbot-de-mensagem-para-rh.blueprint.json)
 
 ### 📄 Documentação
 
